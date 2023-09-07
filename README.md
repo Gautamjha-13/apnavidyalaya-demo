@@ -1,4 +1,5 @@
 # apnavidyalaya-demo
+
 This is the demo repository.
 <br>
-Author - Gautam Jha
+Author - Gautam Jha (KIIT University)
